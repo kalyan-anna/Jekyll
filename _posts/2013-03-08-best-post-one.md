@@ -7,14 +7,15 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse elemen\
 tum leo non felis porttitor vulputate. Nulla ipsum quam, auctor ut hendreri\
 t quis, tincidunt eu metus. Quisque ipsum tellus, semper a tempus quis, int\
 erdum vel magna. Cras a nisl diam, in accumsan augue. Pellentesque varius n\
-ibh eu diam tempor rhoncus.
+ibh eu diam tempor rhoncus. dfdgdfg. This is stupid. how do I run a server.
+Is the server building? Did the site builder failed? Nothing happening... what the hell... im going crazy... i dont know if this will work or not... but its alright... at least the IDE is cool...Let me see if this will be refreshed...I think if it works it will be cool....
 
 ## Pellentesque sollicitudin
 
 Erat pellentesque ornare gravida, ipsum est luctus neque, eget condimentum \
 urna arcu sit amet felis. Duis nisl augue, scelerisque quis iaculis non, co\
 mmodo a tellus. Class aptent taciti sociosqu ad litora torquent per conubia\
- nostra, per inceptos himenaeos. Etiam tincidunt porttitor nibh at semper. 
+ nostra, per inceptos himenaeos. Etiam tincidunt porttitor nibh at semper.
 ---
 title: Consectetur Elit
 layout: default
