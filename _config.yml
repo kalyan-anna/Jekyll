@@ -1,0 +1,7 @@
+name: Jekyll Tutorial
+markdown: kramdown
+highlighter: rouge
+baseurl: /JekyllTutorial
+url: http://localhost:4000/JekyllTutorial
+gems: [jekyll-paginate]
+paginate: 5
